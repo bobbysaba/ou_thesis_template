@@ -1,0 +1,8 @@
+THIS DOCUMENT WILL CONTAIN ALL VERSIONS/CHANGES MADE TO THE DOCUMENT, THE DATE THE CHANGES WERE MADE< AND WHO IS PUSHING THE CHANGES
+
+IF YOU ARE TRYING TO PUSH CHANGES TO THE REPOSITORY, PLEASE ADD A SECTION TO THIS DOCUMENT SO NEW VERSIONS ARE DOCUMENTED IF APPROVED
+
+#######################################################
+version 1.0 - 09/03/2025 - Bobby Saba (robert.saba@ou.edu)
+    -- small changes to page numbering were made to fit OU guidelines (originally USC template)
+    -- documentation/README/VERSIONS created
