@@ -110,5 +110,5 @@ If you’d like to make edits to the template and propose changes to the main br
      ```
 
 ## Notes
-- Ensure you have LaTeX installed (e.g., TeX Live or MiKTeX) to compile the template.
+- Ensure you have LaTeX installed (e.g., TeX Live) or access to a web application (e.g., Overleaf) to compile the template.
 - For questions about the template or contributions, contact the University of Oklahoma School of Meteorology Student Affairs Committee ([somsac@ou.edu](mailto:somsac@ou.edu)).
