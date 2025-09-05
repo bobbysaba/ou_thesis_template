@@ -1,4 +1,4 @@
-# OU School of Meteorology Thesis/Dissertation Template
+# University of Oklahoma Thesis/Dissertation Template
 
 This template was created and is maintained by the **University of Oklahoma School of Meteorology Student Affairs Committee**. Created on 3 September 2025, this template implements Graduate College requirements as of that date. Documented changes to the template can be found in `VERSIONS.txt`. For the current thesis and dissertation formatting requirements, please refer to the [OU Graduate College Thesis/Dissertation Instruction Packet](https://www.ou.edu/content/dam/gradcollege/docs/gc-thesis-dissertation-instruction-packet.pdf).
 
